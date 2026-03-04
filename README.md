@@ -75,7 +75,7 @@ The exploratory analysis revealed consistent patterns with direct operational im
 
 These findings guided formal hypothesis testing and the modeling strategy.
 
-![Feature Importance](Images/2.avg_train_delay_weekday.png)
+![Feature Importance](Images/2.Average_Train_Delay_Weekday.png)
 
 ---
 
